@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hallo
 
-<!--
-**Mahmudmalik/Mahmudmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya Mahmud Malik, mahasiswa IT yang sedang belajar:
 
-Here are some ideas to get you started:
+- Flutter Development
+- Firebase
+- REST API
+- Google Cloud Computing
+- Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Tech
+- Flutter
+- Dart
+- Firebase
+- MySQL
+- VS Code
+- Git & GitHub
+
+## Sedang Dipelajari
+- Clean Architecture
+- API Integration
+- Cloud Computing
+
+## Goals 2026
+- Membangun project portfolio
+- Upload project rutin ke GitHub
+- Belajar deployment aplikasi
